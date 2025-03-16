@@ -1,0 +1,14 @@
+C:\Users\ViGo\Desktop\Logger\AOBScanner\bin\Debug\net8.0\AOBScanner.exe
+C:\Users\ViGo\Desktop\Logger\AOBScanner\bin\Debug\net8.0\AOBScanner.deps.json
+C:\Users\ViGo\Desktop\Logger\AOBScanner\bin\Debug\net8.0\AOBScanner.runtimeconfig.json
+C:\Users\ViGo\Desktop\Logger\AOBScanner\bin\Debug\net8.0\AOBScanner.dll
+C:\Users\ViGo\Desktop\Logger\AOBScanner\bin\Debug\net8.0\AOBScanner.pdb
+C:\Users\ViGo\Desktop\Logger\AOBScanner\obj\Debug\net8.0\AOBScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ViGo\Desktop\Logger\AOBScanner\obj\Debug\net8.0\AOBScanner.AssemblyInfoInputs.cache
+C:\Users\ViGo\Desktop\Logger\AOBScanner\obj\Debug\net8.0\AOBScanner.AssemblyInfo.cs
+C:\Users\ViGo\Desktop\Logger\AOBScanner\obj\Debug\net8.0\AOBScanner.csproj.CoreCompileInputs.cache
+C:\Users\ViGo\Desktop\Logger\AOBScanner\obj\Debug\net8.0\AOBScanner.dll
+C:\Users\ViGo\Desktop\Logger\AOBScanner\obj\Debug\net8.0\refint\AOBScanner.dll
+C:\Users\ViGo\Desktop\Logger\AOBScanner\obj\Debug\net8.0\AOBScanner.pdb
+C:\Users\ViGo\Desktop\Logger\AOBScanner\obj\Debug\net8.0\AOBScanner.genruntimeconfig.cache
+C:\Users\ViGo\Desktop\Logger\AOBScanner\obj\Debug\net8.0\ref\AOBScanner.dll
